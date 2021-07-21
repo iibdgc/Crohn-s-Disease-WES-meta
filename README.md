@@ -4,3 +4,10 @@ identifies multiple genes and rare variants associated with Crohn’s disease su
 
 We performed the meta analysis of two Whole Exome Sequencing dataset, Nextera and TWIST with metal 
 (Willer, C. J., Li, Y., & Abecasis, G. R. (2010). Bioinformatics, 26(17), 2190–2191).
+
+Code availability
+Computer code used in this study:
+Hail (quality control, variants effect annotation; https://hail.is)
+SAIGE (variant-based and gene-based association test; https://github.com/weizhouUMICH/SAIGE)
+METAL (meta-analysis; https://genome.sph.umich.edu/wiki/METAL_Documentation)
+Plink (ancestry assignment, IBD relatedness QC and sample heterozygosity QC; plink1.9, https://www.cog-genomics.org/plink/; sample level QC pipeline, https://github.com/Annefeng/PBK-QC-pipeline)
