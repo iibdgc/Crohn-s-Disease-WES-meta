@@ -12,6 +12,3 @@ Computer code used in this study:
 
 ## Citation
 [Sazonovs, Stevens, Venkataraman, Yuan et al., MedRxiv, 2021](https://www.medrxiv.org/content/10.1101/2021.06.15.21258641v2)
-
-# ibd-exomes
-Code for QC, population- and meta-analysis for Broad IBD Exomes
