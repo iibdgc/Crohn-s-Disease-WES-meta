@@ -11,4 +11,4 @@ Computer code used in this study:
 - PLINK (ancestry assignment, IBD relatedness QC and sample heterozygosity QC; plink1.9, https://www.cog-genomics.org/plink/; sample level QC pipeline, https://github.com/Annefeng/PBK-QC-pipeline)
 
 ## Citation
-[Sazonovs, Stevens, Venkataraman, Yuan et al., MedRxiv, 2021](https://www.medrxiv.org/content/10.1101/2021.06.15.21258641v2)
+[Sazonovs, Stevens, Venkataraman, Yuan et al., Nat Genet, 2022](https://doi.org/10.1038/s41588-022-01156-2)
