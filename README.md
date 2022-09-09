@@ -1,4 +1,4 @@
-# Sequencing of over 100,000 individuals identifies multiple genes and rare variants associated with Crohn’s disease susceptibility
+# Large-scale sequencing identifies multiple genes and rare variants associated with Crohn’s disease susceptibility
 
 ## Synopsis
 IBD exome-wide assocaition statistics from the meta-analysis of two callsets: Nextera and Twist. We used the fixed-effect meta-analysis in [METAL](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2922887/). Column headers are self-explanatory. Allele2 is the tested/effect allele. 
